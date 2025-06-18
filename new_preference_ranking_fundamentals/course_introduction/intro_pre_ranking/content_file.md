@@ -10,7 +10,7 @@
 
 Human evaluators assess model responses and evaluate their quality against clearly defined dimensions. Based on the evaluations, feedback is provided to the model to enhance its performance. This direct human involvement ensures that the resulting AI systems remain responsive, relevant, and safe for real-world applications.
 
-## <span style="color:#364BC9F">Detailed Tasking Process</span>
+## <span style="color:#364BC9">Detailed Tasking Process</span>
 
 In this task, you’ll step into the role of a critical evaluator, reviewing **two AI-generated responses** to a single user prompt.
 
